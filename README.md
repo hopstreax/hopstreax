@@ -47,7 +47,9 @@ I'm a Computer Science & Information Technology graduate from SOA University wit
 
 Email: akashpatra.334@gmail.com  
 LinkedIn: [linkedin.com/in/your-linkedin  ](https://www.linkedin.com/in/himanshupatro/)
+
 X: https://x.com/hopstreax
+
 ### ⚡ Fun Fact
 
 I enjoy building practical products, contributing to open source, and continuously learning new technologies. Outside of coding, I love music and singing 🎵.

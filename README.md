@@ -1,55 +1,26 @@
-# Hi there, I'm Himanshu Patro
+# Hi there, I'm Himanshu Patro 
 
-###  Who am I?
+CSIT graduate from SOA University passionate about **Full-Stack Development** and **Generative AI**. I love building scalable applications, exploring AI technologies, and contributing to open source.
 
-I'm a Computer Science & Information Technology graduate from SOA University with a passion for Full-Stack Development and Generative AI. I enjoy building scalable applications, exploring AI technologies, and contributing to open-source projects.
+###  Currently
 
----
+* Building **AI Interviewer**, an AI-powered mock interview platform.
+* Contributing to open-source projects.
+* Learning Backend Development, System Design, and AI Engineering.
+* Developing full-stack applications with the **MERN stack**.
 
-###  What am I currently working on?
+###  Tech Stack
 
--  Building **AI Interviewer**, a Generative AI-powered platform for mock interviews and personalized feedback.
--  Contributing to open-source projects and learning from production-level codebases.
--  Deepening my knowledge of Backend Development, System Design, and AI Engineering.
--  Developing full-stack applications using the MERN stack and modern web technologies.
+**Languages:** JavaScript, TypeScript, Python, Java, C++
+**Frontend:** React, Next.js, Tailwind CSS, Material UI
+**Backend:** Node.js, Express.js, REST APIs, JWT
+**Databases:** MongoDB, PostgreSQL, MySQL, Supabase
 
----
+###  Connect with me
 
-### 🛠️ What tools do I use?
+* **Email:** `akashpatra.334@gmail.com`
+* **LinkedIn:** linkedin.com/in/himanshupatro
 
-#### Languages
-- JavaScript
-- TypeScript
-- Python
-- Java
-- C++
+ Outside coding, I enjoy music and singing.
 
-#### Frontend
-- React.js
-- Next.js
-- Tailwind CSS
-- Material UI
-- HTML5 & CSS3
-
-#### Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-
-#### Databases
-- MongoDB
-- PostgreSQL
-- MySQL
-- Supabase
-
-###  How to reach me?
-
-Email: akashpatra.334@gmail.com  
-LinkedIn: [linkedin.com/in/your-linkedin  ](https://www.linkedin.com/in/himanshupatro/)
-
-###  Fun Fact
-
-I enjoy building practical products, contributing to open source, and continuously learning new technologies. Outside of coding, I love music and singing 🎵.
-
- **Always open to collaborating on exciting projects and opportunities!**
+ Open to collaboration and exciting opportunities!

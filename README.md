@@ -4,7 +4,7 @@ CSIT graduate from SOA University passionate about **Full-Stack Development** an
 
 ###  Currently
 
-* Building **AI Interviewer**, an AI-powered mock interview platform.
+* Building **AI Interviewer**, an AI-powered interview platform.
 * Contributing to open-source projects.
 * Learning Backend Development, System Design, and AI Engineering.
 * Developing full-stack applications with the **MERN stack**.

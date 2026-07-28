@@ -23,4 +23,4 @@ CSIT graduate from SOA University passionate about **Full-Stack Development** an
 
  Outside coding, I enjoy music and singing.
 
- Open to collaboration and exciting opportunities!
+ Open to opportunities!

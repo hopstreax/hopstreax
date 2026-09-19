@@ -60,10 +60,6 @@ I'm particularly interested in problems where **architecture, system behavior, d
 
 I'm currently exploring several ideas around **AI-powered developer tooling**.
 
-### AI Interviewer
-
-An AI-powered interviewing system designed to simulate technical interviews, evaluate responses, and create a more interactive interview experience.
-
 ### TraceKit
 
 A developer-focused project exploring **AI-assisted debugging, tracing, and understanding of software systems**.

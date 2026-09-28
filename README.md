@@ -125,6 +125,7 @@ That's the kind of engineering I want to keep getting better at.
 * 💼 LinkedIn — [linkedin.com/in/himanshupatro](https://linkedin.com/in/himanshupatro)
 * 𝕏 X — [@hopstreax](https://x.com/hopstreax)
 * 📧 Email — `akashpatra.334@gmail.com`
+* Portfolio - [Himanshu_Patro](https://himanshupatro.vercel.app/)
 
 ---
 

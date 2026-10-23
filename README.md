@@ -1,4 +1,4 @@
-# Hi, I'm Himanshu Patro 👋
+# Hi, I'm Himanshu Patro 
 
 **Software Engineer · Open Source Contributor · AI & Developer Infrastructure**
 
@@ -10,18 +10,18 @@ I enjoy the engineering work that happens **before the code is written**: unders
 
 ---
 
-## 🚀 Currently
+##  Currently
 
-- 🔭 Contributing to **Pomerado** and exploring production-grade developer infrastructure
-- 🧠 Building **CodeAlign**, a tool for validating implementation plans against real codebases
-- 🛠️ Exploring **TraceKit** and AI-assisted developer tooling
-- 💻 Working across **TypeScript, Python, Go, and JavaScript**
-- 🧪 Strengthening my skills in debugging, testing, code intelligence, and system design
-- 🤝 Looking for opportunities with **engineering teams that value ownership, curiosity, and open source**
+-  Contributing to **Pomerado** and exploring production-grade developer infrastructure
+-  Building **CodeAlign**, a tool for validating implementation plans against real codebases
+-  Exploring **TraceKit** and AI-assisted developer tooling
+-  Working across **TypeScript, Python, Go, and JavaScript**
+-  Strengthening my skills in debugging, testing, code intelligence, and system design
+-  Looking for opportunities with **engineering teams that value ownership, curiosity, and open source**
 
 ---
 
-## 🌐 Open Source
+##  Open Source
 
 I've been contributing to open-source projects across **developer tooling, AI infrastructure, code intelligence, and application development**.
 
@@ -55,7 +55,7 @@ For me, a meaningful contribution isn't just a merged PR. It's understanding why
 
 ---
 
-## 🧠 What I'm Building
+##  What I'm Building
 
 ### CodeAlign
 
@@ -105,20 +105,20 @@ An AI-powered interview project exploring **fine-tuned language models and autom
 
 ---
 
-## 🔍 Areas I'm Interested In
+##  Areas I'm Interested In
 
-- 🤖 AI Engineering & Agentic Systems
-- 🧩 Code Intelligence & Repository Understanding
-- ⚙️ Developer Infrastructure
-- 🔧 Backend Engineering
-- 🏗️ System Design & Architecture
-- 🧪 Testing, Debugging & Reliability
-- 🌐 Open Source Software
-- 🛠️ AI-Powered Developer Experience
+-  AI Engineering & Agentic Systems
+-  Code Intelligence & Repository Understanding
+-  Developer Infrastructure
+-  Backend Engineering
+-  System Design & Architecture
+-  Testing, Debugging & Reliability
+-  Open Source Software
+-  AI-Powered Developer Experience
 
 ---
 
-## 📈 My Engineering Philosophy
+##  My Engineering Philosophy
 
 Open source has taught me that writing code is only one part of engineering.
 
@@ -133,13 +133,13 @@ That's the kind of engineer I'm working toward becoming: someone who can navigat
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-- 💼 LinkedIn — [linkedin.com/in/himanshupatro](https://linkedin.com/in/himanshupatro)
-- 𝕏 X — [@hopstreax](https://x.com/hopstreax)
-- 📧 Email — `akashpatra.334@gmail.com`
-- 🌐 Portfolio — [himanshupatro.vercel.app](https://himanshupatro.vercel.app/)
-- 💻 GitHub — [@hopstreax](https://github.com/hopstreax)
+-  LinkedIn — [linkedin.com/in/himanshupatro](https://linkedin.com/in/himanshupatro)
+-  X — [@hopstreax](https://x.com/hopstreax)
+-  Email — `akashpatra.334@gmail.com`
+-  Portfolio — [himanshupatro.vercel.app](https://himanshupatro.vercel.app/)
+-  GitHub — [@hopstreax](https://github.com/hopstreax)
 
 ---
 

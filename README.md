@@ -2,149 +2,91 @@
 
 **Software Engineer · Open Source Contributor · AI & Developer Infrastructure**
 
-I'm a Computer Science & IT graduate from **SOA University** interested in building software at the intersection of **AI, developer tooling, code intelligence, and backend systems**.
+I'm a Computer Science & IT graduate from **SOA University** interested in AI engineering, developer tooling, code intelligence, and backend systems.
 
-My focus has increasingly shifted toward understanding how real software systems behave — investigating unfamiliar codebases, tracing execution paths, reproducing bugs, identifying root causes, and shipping reliable fixes with regression tests.
-
-I enjoy the engineering work that happens **before the code is written**: understanding the system, challenging assumptions, and finding the smallest change that solves the actual problem.
+I enjoy working on real-world engineering problems: understanding unfamiliar codebases, tracing execution paths, reproducing bugs, identifying root causes, and shipping reliable fixes with regression tests.
 
 ---
 
-##  Currently
+## Currently
 
--  Contributing to **Pomerado** and exploring production-grade developer infrastructure
--  Building **CodeAlign**, a tool for validating implementation plans against real codebases
--  Exploring **TraceKit** and AI-assisted developer tooling
--  Working across **TypeScript, Python, Go, and JavaScript**
--  Strengthening my skills in debugging, testing, code intelligence, and system design
--  Looking for opportunities with **engineering teams that value ownership, curiosity, and open source**
+- Contributing to **[0](https://github.com/0sec-labs/0)**, an AI-powered developer environment.
+- Exploring production-grade infrastructure through **Pomerado, Graphify, and Lucebox**.
+- Building **[CodeAlign](https://github.com/hopstreax/CodeAlign)** — validate implementation plans against real codebases.
+- Exploring **TraceKit** and AI-assisted debugging tools.
+- Working across TypeScript, Python, Go, and JavaScript.
+- Open to software engineering opportunities.
 
----
+## Open Source Contributions
 
-##  Open Source
+I've worked across AI infrastructure, developer tooling, code intelligence, and backend systems.
 
-I've been contributing to open-source projects across **developer tooling, AI infrastructure, code intelligence, and application development**.
+**Selected projects:**
 
-### Projects I've contributed to
+- **[0](https://github.com/0sec-labs/0) by 0Security** — Worked on execution lifecycle management, MCP synchronization, filesystem security, memory consistency, extension security, and SBOM resolution.
+- **[Pomerado](https://github.com/Pomerado/pomerado)** — Investigated authentication flows, session handling, sign-in replay, and browser automation.
+- **[Graphify](https://github.com/Graphify)** — Contributed to code intelligence, graph construction, import resolution, and repository analysis.
+- **[Lucebox](https://github.com/Luce-Org/lucebox)** — Worked on Python execution and process-management fixes.
+- **PAODO Workspaces** — Contributed to workspace security, file containment, and concurrent file operations.
+- **Agent Orchestrator / Continue** — Explored agent infrastructure and AI-powered developer tooling.
 
-- **[Pomerado](https://github.com/Pomerado/pomerado)** — Investigating sign-in flows, session handling, browser automation, and edge cases in authentication and replay behavior.
-- **[Graphify](https://github.com/Graphify)** — Contributing to code intelligence, graph construction, import resolution, and repository analysis. 
-- **Agent Orchestrator** — Exploring Go-based agent infrastructure and developer tooling.
-- **Continue** — Exploring AI-powered developer tooling.
-- **PDA** — Contributing to an open-source full-stack application.
-
-My open-source workflow:
+### Engineering approach
 
 ```text
-Understand the Architecture
-          ↓
-Reproduce the Problem
-          ↓
+Understand Architecture
+        ↓
+Reproduce the Issue
+        ↓
 Trace Execution Paths
-          ↓
-Identify the Root Cause
-          ↓
-Design a Minimal Fix
-          ↓
+        ↓
+Identify Root Cause
+        ↓
+Implement Minimal Fix
+        ↓
 Write Regression Tests
-          ↓
+        ↓
 Validate & Ship
 ```
 
-For me, a meaningful contribution isn't just a merged PR. It's understanding why a problem exists, proving the fix works, and making sure the behavior stays correct.
+I value understanding why something breaks just as much as fixing it.
 
----
+## What I'm Building
 
-##  What I'm Building
+**[CodeAlign](https://github.com/hopstreax/CodeAlign)**
 
-### CodeAlign
+A developer tool that validates implementation plans against actual codebases using repository intelligence. The goal is to make AI-assisted implementation more grounded and reliable.
 
-**Validate your implementation plan against the real codebase before you code.**
+**TraceKit**
 
-CodeAlign is a developer tool designed to compare implementation plans with actual codebase structure and behavior. It uses code intelligence to establish a baseline, identify potential mismatches, and support verification of implementation work.
+Exploring AI-assisted debugging, tracing, and tools for understanding complex software systems.
 
-I'm exploring how implementation planning, repository analysis, and agent-driven coding can work together to make AI-assisted software development more reliable.
+**[AI Interviewer](https://github.com/hopstreax/ai-interviewer)**
 
-**Repository:** [github.com/hopstreax/CodeAlign](https://github.com/hopstreax/CodeAlign)
+An AI-powered interview project exploring language models and automated interview experiences.
 
-### TraceKit
+## Tech Stack
 
-Exploring developer tooling around **AI-assisted debugging, tracing, and understanding software systems**.
+- **Languages:** TypeScript, JavaScript, Python, Go, Java, C++
+- **Frontend:** React, Next.js, Vite, Tailwind CSS, Material UI
+- **Backend:** Node.js, Express, REST, GraphQL
+- **Databases:** PostgreSQL, MongoDB, MySQL, Supabase
+- **Engineering:** Git, Docker, Linux, GitHub Actions, CI/CD
+- **Testing:** Playwright, Vitest, pytest
 
-The broader goal is to help developers do more than generate code — to understand existing systems, investigate failures, and reason about complex codebases.
+## Areas of Interest
 
-### AI Interviewer
+AI Engineering · Agentic Systems · Code Intelligence · Developer Infrastructure · Backend Engineering · System Design · Software Reliability
 
-An AI-powered interview project exploring **fine-tuned language models and automated interview experiences**.
+## Let's Connect
 
-**Repository:** [github.com/hopstreax/ai-interviewer](https://github.com/hopstreax/ai-interviewer)
+- **GitHub:** [@hopstreax](https://github.com/hopstreax)
+- **LinkedIn:** [himanshupatro](https://linkedin.com/in/himanshupatro)
+- **X:** [@hopstreax](https://x.com/hopstreax)
+- **Email:** akashpatra.334@gmail.com
+- **Portfolio:** [himanshupatro.vercel.app](https://himanshupatro.vercel.app/)
 
----
+Outside software, I enjoy singing, music, painting, and calligraphy. 
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-`TypeScript` `JavaScript` `Python` `Go` `Java` `C++`
-
-**Frontend**
-
-`React` `Next.js` `Tailwind CSS` `Vite` `Material UI`
-
-**Backend & APIs**
-
-`Node.js` `Express.js` `REST APIs` `GraphQL` `JWT`
-
-**Databases**
-
-`PostgreSQL` `MongoDB` `MySQL` `Supabase`
-
-**Engineering & Infrastructure**
-
-`Git` `GitHub Actions` `Docker` `CI/CD` `Linux` `Playwright` `Vitest` `pytest`
-
----
-
-##  Areas I'm Interested In
-
--  AI Engineering & Agentic Systems
--  Code Intelligence & Repository Understanding
--  Developer Infrastructure
--  Backend Engineering
--  System Design & Architecture
--  Testing, Debugging & Reliability
--  Open Source Software
--  AI-Powered Developer Experience
-
----
-
-##  My Engineering Philosophy
-
-Open source has taught me that writing code is only one part of engineering.
-
-A large part of the work is:
-
-> Reading code you didn't write.  
-> Understanding decisions you didn't make.  
-> Reproducing bugs you didn't create.  
-> And fixing problems without breaking everything around them.
-
-That's the kind of engineer I'm working toward becoming: someone who can navigate unfamiliar systems, take ownership of ambiguous problems, and deliver changes that are small, tested, and reliable.
-
----
-
-##  Let's Connect
-
--  LinkedIn — [linkedin.com/in/himanshupatro](https://linkedin.com/in/himanshupatro)
--  X — [@hopstreax](https://x.com/hopstreax)
--  Email — `akashpatra.334@gmail.com`
--  Portfolio — [himanshupatro.vercel.app](https://himanshupatro.vercel.app/)
--  GitHub — [@hopstreax](https://github.com/hopstreax)
-
----
-
-Outside software, I enjoy **music, singing, painting, and calligraphy**. 🎵
-
-> **Understanding systems. Finding root causes. Building tools that make developers better.**
+> **Understanding systems. Finding root causes. Building reliable software.**
 >
 > **Open to opportunities.**

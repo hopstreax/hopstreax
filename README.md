@@ -10,7 +10,7 @@ I enjoy working on real-world engineering problems: understanding unfamiliar cod
 
 ## Currently
 
-- Contributing to **[0](https://github.com/0sec-labs/0)**, an AI-powered developer environment.
+- Contributing to **[0](https://github.com/0sec-labs/0)**, an AI-powered security infrastructure by 0Security.
 - Exploring production-grade infrastructure through **Pomerado, Graphify, and Lucebox**.
 - Building **[CodeAlign](https://github.com/hopstreax/CodeAlign)** — validate implementation plans against real codebases.
 - Exploring **TraceKit** and AI-assisted debugging tools.

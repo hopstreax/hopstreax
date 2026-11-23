@@ -13,7 +13,7 @@ I enjoy working on real-world engineering problems: understanding unfamiliar cod
 - Contributing to **[0](https://github.com/0sec-labs/0)**, an AI-powered security infrastructure by 0Security.
 - Exploring production-grade infrastructure through **Pomerado, Graphify, and Lucebox**.
 - Building **[CodeAlign](https://github.com/hopstreax/CodeAlign)** — validate implementation plans against real codebases.
-- Exploring **TraceKit** and AI-assisted debugging tools.
+- Exploring **[TraceKit](https://github.com/hopstreax/testing-agent_v0)** and AI-assisted debugging tools.
 - Working across TypeScript, Python, Go, and JavaScript.
 - Open to software engineering opportunities.
 
@@ -27,7 +27,7 @@ I've worked across AI infrastructure, developer tooling, code intelligence, and 
 - **[Pomerado](https://github.com/Pomerado/pomerado)** — Investigated authentication flows, session handling, sign-in replay, and browser automation.
 - **[Graphify](https://github.com/Graphify)** — Contributed to code intelligence, graph construction, import resolution, and repository analysis.
 - **[Lucebox](https://github.com/Luce-Org/lucebox)** — Worked on Python execution and process-management fixes.
-- **PAODO Workspaces** — Contributed to workspace security, file containment, and concurrent file operations.
+- **[PAODO Workspaces](https://github.com/paodo-solution/PAODO-Workspaces)** — Contributed to workspace security, file containment, and concurrent file operations.
 - **Agent Orchestrator / Continue** — Explored agent infrastructure and AI-powered developer tooling.
 
 ### Engineering approach
@@ -56,7 +56,7 @@ I value understanding why something breaks just as much as fixing it.
 
 A developer tool that validates implementation plans against actual codebases using repository intelligence. The goal is to make AI-assisted implementation more grounded and reliable.
 
-**TraceKit**
+**[TraceKit](https://github.com/hopstreax/testing-agent_v0)**
 
 Exploring AI-assisted debugging, tracing, and tools for understanding complex software systems.
 
